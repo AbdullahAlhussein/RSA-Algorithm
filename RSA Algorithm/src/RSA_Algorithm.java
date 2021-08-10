@@ -8,7 +8,7 @@ import javax.crypto.Cipher;
 
 public class RSA_Algorithm
 {
-    static String plainText = "NCDC National Center for Digital Certification";
+    static String plainText = "welcome to encryption and decryption experience ";
     
     public static void main(String[] args) throws Exception
     {
